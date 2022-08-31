@@ -36,7 +36,7 @@ function Footer() {
           <i class="fa-solid fa-star"></i> <span>Star</span>
         </a>
         <a
-          href="https://www.instagram.com/_weirdo_74"
+          href="https://www.instagram.com/_weirdo_74/"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
