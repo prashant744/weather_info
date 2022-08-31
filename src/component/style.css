@@ -1,0 +1,10 @@
+body {
+  background-color: #343a40;
+  color: white;
+}
+.custom-card {
+  min-height: 250px;
+}
+.icons {
+  font-size: 7rem;
+}
